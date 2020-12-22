@@ -1,5 +1,6 @@
-Python
-pandas
-numpy
-matplotlib.pyplot
-seaborn
+python>=3.0.0
+pandas>=2.0.0
+numpy>=2.0.0
+scikit-learn>=2.0.0
+matplotlib>=2.0.0
+seaborn>=2.0.0
