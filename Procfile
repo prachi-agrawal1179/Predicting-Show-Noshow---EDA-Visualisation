@@ -1,2 +1,2 @@
-web: python run appointment.ipynb
+web: voila --port=$PORT --no-browser appointment.ipynb
 
