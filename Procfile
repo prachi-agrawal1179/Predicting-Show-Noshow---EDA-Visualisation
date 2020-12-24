@@ -1,2 +1,2 @@
-release: ipython Shownoshow_appointment.ipynb migrate
+release: ipython appointment.ipynb migrate
 web: gunicorn gettingstarted.wsgi --preload --log-file -
