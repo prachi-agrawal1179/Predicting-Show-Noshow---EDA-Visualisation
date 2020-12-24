@@ -1,2 +1,2 @@
-web: sh setup.sh && python appointment.ipynb
+web: sh setup.sh && python run appointment.ipynb
 
